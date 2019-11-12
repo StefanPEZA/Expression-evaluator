@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1573333306 source:d:\projectscpp\expressiontree\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<winbgim.h>
+	"abstract.h"
+
+1573333306 d:\projectscpp\expressiontree\binarytree.h
+
+1573207044 d:\projectscpp\expressiontree\stringop.h
+
+1573312667 d:\projectscpp\expressiontree\converters.h
+
+1573333306 d:\projectscpp\expressiontree\abstract.h
+	<math.h>
+	"converters.h"
+	"BinaryTree.h"
+
+1573587839 source:c:\users\stefa\desktop\expressiontree\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<winbgim.h>
+	"abstract.h"
+
+1573374360 c:\users\stefa\desktop\expressiontree\abstract.h
+	<math.h>
+	"converters.h"
+	"BinaryTree.h"
+
+1573374352 c:\users\stefa\desktop\expressiontree\converters.h
+
+1573586787 c:\users\stefa\desktop\expressiontree\binarytree.h
+
