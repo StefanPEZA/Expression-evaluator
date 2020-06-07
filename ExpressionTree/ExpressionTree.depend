@@ -35,3 +35,20 @@
 
 1573586787 c:\users\stefa\desktop\expressiontree\binarytree.h
 
+1591515850 source:c:\users\stefa\documents\github\expression-evaluator\expressiontree\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<winbgim.h>
+	"abstract.h"
+
+1573377960 c:\users\stefa\documents\github\expression-evaluator\expressiontree\abstract.h
+	<math.h>
+	"converters.h"
+	"BinaryTree.h"
+
+1573377952 c:\users\stefa\documents\github\expression-evaluator\expressiontree\converters.h
+
+1591515850 c:\users\stefa\documents\github\expression-evaluator\expressiontree\binarytree.h
+

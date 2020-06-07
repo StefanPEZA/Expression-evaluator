@@ -151,6 +151,7 @@ void DrawTree(Node* root, int width, int height)
                 floodfill(0,0,10);
                 updateDraw(root);
                 firstClick = true;
+                swapbuffers();
             }
 
         }
